@@ -4,7 +4,13 @@
 The objective of this project is to build a sentiment analysis model that classifies IMDb movie reviews as either positive or negative using Natural Language Processing (NLP) and Machine Learning techniques.
 
 ## Dataset
-- IMDb Movie Reviews Dataset
+
+IMDb Dataset of 50K Movie Reviews
+
+Source:
+https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
+Note: The dataset is not included in this repository because it exceeds GitHub's web upload size limit. It can be downloaded from the above link.
 
 ## Technologies Used
 - Python
